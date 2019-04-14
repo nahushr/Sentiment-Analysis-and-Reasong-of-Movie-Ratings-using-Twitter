@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>13/04/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="('RaeVan87', -0.0772)" label="('RaeVan87', -0.0772)" />
+      <node id="('MunchkinLetty', -0.296)" label="('MunchkinLetty', -0.296)" />
+      <node id="('StephenML1983', -0.0772)" label="('StephenML1983', -0.0772)" />
+      <node id="('drdonsdizon', -0.4795)" label="('drdonsdizon', -0.4795)" />
+      <node id="('AAcrew_BR', -0.16666666666666666)" label="('AAcrew_BR', -0.16666666666666666)" />
+      <node id="('AAcrew_BR', -0.11904761904761904)" label="('AAcrew_BR', -0.11904761904761904)" />
+      <node id="('WeReadComics', -0.0516)" label="('WeReadComics', -0.0516)" />
+      <node id="('theshnax', -0.15000000000000002)" label="('theshnax', -0.15000000000000002)" />
+      <node id="('health_lobby', -0.0875)" label="('health_lobby', -0.0875)" />
+      <node id="('coachforce', -0.5)" label="('coachforce', -0.5)" />
+      <node id="('MarioLivPope', -0.5719)" label="('MarioLivPope', -0.5719)" />
+      <node id="('BandB_CBS', -0.5719)" label="('BandB_CBS', -0.5719)" />
+      <node id="('BBheathertom', -0.5719)" label="('BBheathertom', -0.5719)" />
+      <node id="('farzanamoon', -0.11275510204081633)" label="('farzanamoon', -0.11275510204081633)" />
+      <node id="('thedailybeast', -0.11275510204081633)" label="('thedailybeast', -0.11275510204081633)" />
+      <node id="('TheLloydGrove', -0.11275510204081633)" label="('TheLloydGrove', -0.11275510204081633)" />
+      <node id="('tobyslegacy', -0.09375)" label="('tobyslegacy', -0.09375)" />
+      <node id="('yeetmykids', -0.11285714285714285)" label="('yeetmykids', -0.11285714285714285)" />
+      <node id="('jodieobrien', -0.128)" label="('jodieobrien', -0.128)" />
+      <node id="('_jessicaVERA', -0.743)" label="('_jessicaVERA', -0.743)" />
+      <node id="('jdenunzio', -0.3)" label="('jdenunzio', -0.3)" />
+      <node id="('AstronautMoist', -0.125)" label="('AstronautMoist', -0.125)" />
+      <node id="('ZandiNokuthula', -0.7717)" label="('ZandiNokuthula', -0.7717)" />
+      <node id="('pali_mat', -0.225)" label="('pali_mat', -0.225)" />
+      <node id="('couriermail', -0.5)" label="('couriermail', -0.5)" />
+      <node id="('comicbooksnyc', -0.1531)" label="('comicbooksnyc', -0.1531)" />
+      <node id="('SamoanBlack', -0.3071)" label="('SamoanBlack', -0.3071)" />
+      <node id="('parthaskar', -0.04999999999999999)" label="('parthaskar', -0.04999999999999999)" />
+      <node id="('DuchessFionaA', -0.0516)" label="('DuchessFionaA', -0.0516)" />
+      <node id="('sniktcast', -0.2)" label="('sniktcast', -0.2)" />
+      <node id="('markvrb', -0.18333333333333335)" label="('markvrb', -0.18333333333333335)" />
+      <node id="('Sadboicluub', -0.4767)" label="('Sadboicluub', -0.4767)" />
+      <node id="('savillj013', -0.35)" label="('savillj013', -0.35)" />
+      <node id="('AlizaMoiz', -0.4)" label="('AlizaMoiz', -0.4)" />
+      <node id="('timo_ambo', -0.08333333333333333)" label="('timo_ambo', -0.08333333333333333)" />
+      <node id="('btll4ever', -0.5499999999999999)" label="('btll4ever', -0.5499999999999999)" />
+      <node id="('nicks_mufc', -0.08)" label="('nicks_mufc', -0.08)" />
+      <node id="('KSIOlajidebt', -0.08)" label="('KSIOlajidebt', -0.08)" />
+      <node id="('thorsenmark', -0.1531)" label="('thorsenmark', -0.1531)" />
+      <node id="('FilmInquiry', -0.01666666666666666)" label="('FilmInquiry', -0.01666666666666666)" />
+      <node id="('CrystineAashir', -0.1)" label="('CrystineAashir', -0.1)" />
+      <node id="('Bo0giedown', -0.0772)" label="('Bo0giedown', -0.0772)" />
+      <node id="('filmicbox', -0.2)" label="('filmicbox', -0.2)" />
+      <node id="('kev_martin', -0.03181818181818183)" label="('kev_martin', -0.03181818181818183)" />
+      <node id="('RealPAULLOGAN', -0.03882575757575758)" label="('RealPAULLOGAN', -0.03882575757575758)" />
+      <node id="('KellerNicolas10', -0.05)" label="('KellerNicolas10', -0.05)" />
+      <node id="('WolverSteve', -0.1)" label="('WolverSteve', -0.1)" />
+      <node id="('klonblog', -0.5)" label="('klonblog', -0.5)" />
+      <node id="('norm_town', -0.25)" label="('norm_town', -0.25)" />
+      <node id="('luckyleo23', -0.3818)" label="('luckyleo23', -0.3818)" />
+      <node id="('Sokom_Im', -0.3958333333333333)" label="('Sokom_Im', -0.3958333333333333)" />
+      <node id="('tvspoileralert', -0.07142857142857142)" label="('tvspoileralert', -0.07142857142857142)" />
+      <node id="('Squall410Cosply', -0.325)" label="('Squall410Cosply', -0.325)" />
+      <node id="('sinsorium', -0.0258)" label="('sinsorium', -0.0258)" />
+      <node id="('JackOBr86214368', -0.0258)" label="('JackOBr86214368', -0.0258)" />
+      <node id="('MrNiceGuy18_58', -0.0258)" label="('MrNiceGuy18_58', -0.0258)" />
+      <node id="('CozyP', -0.0625)" label="('CozyP', -0.0625)" />
+      <node id="('daniel_frodsham', -0.0625)" label="('daniel_frodsham', -0.0625)" />
+      <node id="('WildSpartanz', -0.0625)" label="('WildSpartanz', -0.0625)" />
+      <node id="('JeffK1984', -0.25)" label="('JeffK1984', -0.25)" />
+      <node id="('davidyardin', -0.3786)" label="('davidyardin', -0.3786)" />
+      <node id="('TruthBTold_100', -0.05)" label="('TruthBTold_100', -0.05)" />
+      <node id="('davidholcomb8', -0.17500000000000002)" label="('davidholcomb8', -0.17500000000000002)" />
+      <node id="('MatthewamHoward', -0.16666666666666666)" label="('MatthewamHoward', -0.16666666666666666)" />
+      <node id="('mW_', -0.5719)" label="('mW_', -0.5719)" />
+      <node id="('mW_', -0.16666666666666666)" label="('mW_', -0.16666666666666666)" />
+      <node id="('mW_', -0.4375)" label="('mW_', -0.4375)" />
+      <node id="('CruxEZz', -0.2222222222222222)" label="('CruxEZz', -0.2222222222222222)" />
+      <node id="('Wisecrackings0', -0.025)" label="('Wisecrackings0', -0.025)" />
+      <node id="('GephardtDaily', -0.05)" label="('GephardtDaily', -0.05)" />
+      <node id="('somelsays', -0.05)" label="('somelsays', -0.05)" />
+      <node id="('ricky_fright', -0.17499999999999996)" label="('ricky_fright', -0.17499999999999996)" />
+      <node id="('RACQOfficial', -0.19523809523809524)" label="('RACQOfficial', -0.19523809523809524)" />
+      <node id="('SDA111', -0.03125)" label="('SDA111', -0.03125)" />
+      <node id="('PFreeman2018', -0.296)" label="('PFreeman2018', -0.296)" />
+      <node id="('BarkyMalarkey1', -0.0125)" label="('BarkyMalarkey1', -0.0125)" />
+      <node id="('GeorgiMcKerrow', -0.0125)" label="('GeorgiMcKerrow', -0.0125)" />
+      <node id="('NSTYPLY', -0.1613)" label="('NSTYPLY', -0.1613)" />
+      <node id="('Whereis_Jyrki', -0.05)" label="('Whereis_Jyrki', -0.05)" />
+      <node id="('JonesDebra', -0.0611111111111111)" label="('JonesDebra', -0.0611111111111111)" />
+      <node id="('xtonyshair', -0.4767)" label="('xtonyshair', -0.4767)" />
+      <node id="('b3t0v', -0.25555555555555554)" label="('b3t0v', -0.25555555555555554)" />
+      <node id="('decryptedn_yt', -0.3125)" label="('decryptedn_yt', -0.3125)" />
+      <node id="('cadu_novaes', -0.07142857142857142)" label="('cadu_novaes', -0.07142857142857142)" />
+      <node id="('cowcat44', -0.0772)" label="('cowcat44', -0.0772)" />
+      <node id="('ZombiePortraits', -0.4588)" label="('ZombiePortraits', -0.4588)" />
+      <node id="('wonderbunk', -0.07692307692307693)" label="('wonderbunk', -0.07692307692307693)" />
+      <node id="('ChandlerCBS3', -0.04166666666666667)" label="('ChandlerCBS3', -0.04166666666666667)" />
+      <node id="('comicsartgalaxy', -0.15000000000000002)" label="('comicsartgalaxy', -0.15000000000000002)" />
+      <node id="('comicsdune', -0.5499999999999999)" label="('comicsdune', -0.5499999999999999)" />
+      <node id="('Xchrotonix12', -0.07840909090909087)" label="('Xchrotonix12', -0.07840909090909087)" />
+      <node id="('ktik931fm', -0.6249)" label="('ktik931fm', -0.6249)" />
+      <node id="('LisaWBZ', -0.296)" label="('LisaWBZ', -0.296)" />
+      <node id="('philparthree', -0.2777777777777778)" label="('philparthree', -0.2777777777777778)" />
+      <node id="('meltball', -0.1695)" label="('meltball', -0.1695)" />
+      <node id="('TOSHIRTcom', -0.25)" label="('TOSHIRTcom', -0.25)" />
+      <node id="('K_McKee87', -0.15000000000000002)" label="('K_McKee87', -0.15000000000000002)" />
+      <node id="RaeVan87" label="RaeVan87" />
+      <node id="MunchkinLetty" label="MunchkinLetty" />
+      <node id="StephenML1983" label="StephenML1983" />
+      <node id="drdonsdizon" label="drdonsdizon" />
+      <node id="AAcrew_BR" label="AAcrew_BR" />
+      <node id="WeReadComics" label="WeReadComics" />
+      <node id="theshnax" label="theshnax" />
+      <node id="health_lobby" label="health_lobby" />
+      <node id="coachforce" label="coachforce" />
+      <node id="MarioLivPope" label="MarioLivPope" />
+      <node id="BandB_CBS" label="BandB_CBS" />
+      <node id="BBheathertom" label="BBheathertom" />
+      <node id="farzanamoon" label="farzanamoon" />
+      <node id="thedailybeast" label="thedailybeast" />
+      <node id="TheLloydGrove" label="TheLloydGrove" />
+      <node id="tobyslegacy" label="tobyslegacy" />
+      <node id="yeetmykids" label="yeetmykids" />
+      <node id="jodieobrien" label="jodieobrien" />
+      <node id="_jessicaVERA" label="_jessicaVERA" />
+      <node id="jdenunzio" label="jdenunzio" />
+      <node id="AstronautMoist" label="AstronautMoist" />
+      <node id="ZandiNokuthula" label="ZandiNokuthula" />
+      <node id="pali_mat" label="pali_mat" />
+      <node id="couriermail" label="couriermail" />
+      <node id="comicbooksnyc" label="comicbooksnyc" />
+      <node id="SamoanBlack" label="SamoanBlack" />
+      <node id="parthaskar" label="parthaskar" />
+      <node id="DuchessFionaA" label="DuchessFionaA" />
+      <node id="sniktcast" label="sniktcast" />
+      <node id="markvrb" label="markvrb" />
+      <node id="Sadboicluub" label="Sadboicluub" />
+      <node id="savillj013" label="savillj013" />
+      <node id="AlizaMoiz" label="AlizaMoiz" />
+      <node id="timo_ambo" label="timo_ambo" />
+      <node id="btll4ever" label="btll4ever" />
+      <node id="nicks_mufc" label="nicks_mufc" />
+      <node id="KSIOlajidebt" label="KSIOlajidebt" />
+      <node id="thorsenmark" label="thorsenmark" />
+      <node id="FilmInquiry" label="FilmInquiry" />
+      <node id="CrystineAashir" label="CrystineAashir" />
+      <node id="Bo0giedown" label="Bo0giedown" />
+      <node id="filmicbox" label="filmicbox" />
+      <node id="kev_martin" label="kev_martin" />
+      <node id="RealPAULLOGAN" label="RealPAULLOGAN" />
+      <node id="KellerNicolas10" label="KellerNicolas10" />
+      <node id="WolverSteve" label="WolverSteve" />
+      <node id="klonblog" label="klonblog" />
+      <node id="norm_town" label="norm_town" />
+      <node id="luckyleo23" label="luckyleo23" />
+      <node id="Sokom_Im" label="Sokom_Im" />
+      <node id="tvspoileralert" label="tvspoileralert" />
+      <node id="Squall410Cosply" label="Squall410Cosply" />
+      <node id="sinsorium" label="sinsorium" />
+      <node id="JackOBr86214368" label="JackOBr86214368" />
+      <node id="MrNiceGuy18_58" label="MrNiceGuy18_58" />
+      <node id="CozyP" label="CozyP" />
+      <node id="daniel_frodsham" label="daniel_frodsham" />
+      <node id="WildSpartanz" label="WildSpartanz" />
+      <node id="JeffK1984" label="JeffK1984" />
+      <node id="davidyardin" label="davidyardin" />
+      <node id="TruthBTold_100" label="TruthBTold_100" />
+      <node id="davidholcomb8" label="davidholcomb8" />
+      <node id="MatthewamHoward" label="MatthewamHoward" />
+      <node id="mW_" label="mW_" />
+      <node id="CruxEZz" label="CruxEZz" />
+      <node id="Wisecrackings0" label="Wisecrackings0" />
+      <node id="GephardtDaily" label="GephardtDaily" />
+      <node id="somelsays" label="somelsays" />
+      <node id="ricky_fright" label="ricky_fright" />
+      <node id="RACQOfficial" label="RACQOfficial" />
+      <node id="SDA111" label="SDA111" />
+      <node id="PFreeman2018" label="PFreeman2018" />
+      <node id="BarkyMalarkey1" label="BarkyMalarkey1" />
+      <node id="GeorgiMcKerrow" label="GeorgiMcKerrow" />
+      <node id="NSTYPLY" label="NSTYPLY" />
+      <node id="Whereis_Jyrki" label="Whereis_Jyrki" />
+      <node id="JonesDebra" label="JonesDebra" />
+      <node id="xtonyshair" label="xtonyshair" />
+      <node id="b3t0v" label="b3t0v" />
+      <node id="decryptedn_yt" label="decryptedn_yt" />
+      <node id="cadu_novaes" label="cadu_novaes" />
+      <node id="cowcat44" label="cowcat44" />
+      <node id="ZombiePortraits" label="ZombiePortraits" />
+      <node id="wonderbunk" label="wonderbunk" />
+      <node id="ChandlerCBS3" label="ChandlerCBS3" />
+      <node id="comicsartgalaxy" label="comicsartgalaxy" />
+      <node id="comicsdune" label="comicsdune" />
+      <node id="Xchrotonix12" label="Xchrotonix12" />
+      <node id="ktik931fm" label="ktik931fm" />
+      <node id="LisaWBZ" label="LisaWBZ" />
+      <node id="philparthree" label="philparthree" />
+      <node id="meltball" label="meltball" />
+      <node id="TOSHIRTcom" label="TOSHIRTcom" />
+      <node id="K_McKee87" label="K_McKee87" />
+    </nodes>
+    <edges>
+      <edge id="0" source="RaeVan87" target="RaeVan87" />
+      <edge id="1" source="MunchkinLetty" target="MunchkinLetty" />
+      <edge id="2" source="StephenML1983" target="StephenML1983" />
+      <edge id="3" source="drdonsdizon" target="drdonsdizon" />
+      <edge id="4" source="AAcrew_BR" target="AAcrew_BR" />
+      <edge id="5" source="WeReadComics" target="WeReadComics" />
+      <edge id="6" source="theshnax" target="theshnax" />
+      <edge id="7" source="health_lobby" target="health_lobby" />
+      <edge id="8" source="coachforce" target="coachforce" />
+      <edge id="9" source="MarioLivPope" target="MarioLivPope" />
+      <edge id="10" source="MarioLivPope" target="BandB_CBS" />
+      <edge id="11" source="MarioLivPope" target="BBheathertom" />
+      <edge id="12" source="BandB_CBS" target="BandB_CBS" />
+      <edge id="13" source="BandB_CBS" target="BBheathertom" />
+      <edge id="14" source="BBheathertom" target="BBheathertom" />
+      <edge id="15" source="farzanamoon" target="farzanamoon" />
+      <edge id="16" source="farzanamoon" target="thedailybeast" />
+      <edge id="17" source="farzanamoon" target="TheLloydGrove" />
+      <edge id="18" source="thedailybeast" target="thedailybeast" />
+      <edge id="19" source="thedailybeast" target="TheLloydGrove" />
+      <edge id="20" source="TheLloydGrove" target="TheLloydGrove" />
+      <edge id="21" source="tobyslegacy" target="tobyslegacy" />
+      <edge id="22" source="yeetmykids" target="yeetmykids" />
+      <edge id="23" source="jodieobrien" target="jodieobrien" />
+      <edge id="24" source="_jessicaVERA" target="_jessicaVERA" />
+      <edge id="25" source="jdenunzio" target="jdenunzio" />
+      <edge id="26" source="AstronautMoist" target="AstronautMoist" />
+      <edge id="27" source="ZandiNokuthula" target="ZandiNokuthula" />
+      <edge id="28" source="pali_mat" target="pali_mat" />
+      <edge id="29" source="couriermail" target="couriermail" />
+      <edge id="30" source="comicbooksnyc" target="comicbooksnyc" />
+      <edge id="31" source="SamoanBlack" target="SamoanBlack" />
+      <edge id="32" source="parthaskar" target="parthaskar" />
+      <edge id="33" source="DuchessFionaA" target="DuchessFionaA" />
+      <edge id="34" source="sniktcast" target="sniktcast" />
+      <edge id="35" source="markvrb" target="markvrb" />
+      <edge id="36" source="Sadboicluub" target="Sadboicluub" />
+      <edge id="37" source="savillj013" target="savillj013" />
+      <edge id="38" source="AlizaMoiz" target="AlizaMoiz" />
+      <edge id="39" source="timo_ambo" target="timo_ambo" />
+      <edge id="40" source="btll4ever" target="btll4ever" />
+      <edge id="41" source="nicks_mufc" target="nicks_mufc" />
+      <edge id="42" source="nicks_mufc" target="KSIOlajidebt" />
+      <edge id="43" source="KSIOlajidebt" target="KSIOlajidebt" />
+      <edge id="44" source="thorsenmark" target="thorsenmark" />
+      <edge id="45" source="FilmInquiry" target="FilmInquiry" />
+      <edge id="46" source="CrystineAashir" target="CrystineAashir" />
+      <edge id="47" source="Bo0giedown" target="Bo0giedown" />
+      <edge id="48" source="filmicbox" target="filmicbox" />
+      <edge id="49" source="kev_martin" target="kev_martin" />
+      <edge id="50" source="RealPAULLOGAN" target="RealPAULLOGAN" />
+      <edge id="51" source="KellerNicolas10" target="KellerNicolas10" />
+      <edge id="52" source="WolverSteve" target="WolverSteve" />
+      <edge id="53" source="klonblog" target="klonblog" />
+      <edge id="54" source="norm_town" target="norm_town" />
+      <edge id="55" source="luckyleo23" target="luckyleo23" />
+      <edge id="56" source="Sokom_Im" target="Sokom_Im" />
+      <edge id="57" source="tvspoileralert" target="tvspoileralert" />
+      <edge id="58" source="Squall410Cosply" target="Squall410Cosply" />
+      <edge id="59" source="sinsorium" target="sinsorium" />
+      <edge id="60" source="sinsorium" target="JackOBr86214368" />
+      <edge id="61" source="sinsorium" target="MrNiceGuy18_58" />
+      <edge id="62" source="JackOBr86214368" target="JackOBr86214368" />
+      <edge id="63" source="JackOBr86214368" target="MrNiceGuy18_58" />
+      <edge id="64" source="MrNiceGuy18_58" target="MrNiceGuy18_58" />
+      <edge id="65" source="CozyP" target="CozyP" />
+      <edge id="66" source="CozyP" target="daniel_frodsham" />
+      <edge id="67" source="CozyP" target="WildSpartanz" />
+      <edge id="68" source="daniel_frodsham" target="daniel_frodsham" />
+      <edge id="69" source="daniel_frodsham" target="WildSpartanz" />
+      <edge id="70" source="WildSpartanz" target="WildSpartanz" />
+      <edge id="71" source="JeffK1984" target="JeffK1984" />
+      <edge id="72" source="davidyardin" target="davidyardin" />
+      <edge id="73" source="TruthBTold_100" target="TruthBTold_100" />
+      <edge id="74" source="davidholcomb8" target="davidholcomb8" />
+      <edge id="75" source="MatthewamHoward" target="MatthewamHoward" />
+      <edge id="76" source="mW_" target="mW_" />
+      <edge id="77" source="CruxEZz" target="CruxEZz" />
+      <edge id="78" source="Wisecrackings0" target="Wisecrackings0" />
+      <edge id="79" source="GephardtDaily" target="GephardtDaily" />
+      <edge id="80" source="somelsays" target="somelsays" />
+      <edge id="81" source="ricky_fright" target="ricky_fright" />
+      <edge id="82" source="RACQOfficial" target="RACQOfficial" />
+      <edge id="83" source="SDA111" target="SDA111" />
+      <edge id="84" source="PFreeman2018" target="PFreeman2018" />
+      <edge id="85" source="BarkyMalarkey1" target="BarkyMalarkey1" />
+      <edge id="86" source="BarkyMalarkey1" target="GeorgiMcKerrow" />
+      <edge id="87" source="GeorgiMcKerrow" target="GeorgiMcKerrow" />
+      <edge id="88" source="NSTYPLY" target="NSTYPLY" />
+      <edge id="89" source="Whereis_Jyrki" target="Whereis_Jyrki" />
+      <edge id="90" source="JonesDebra" target="JonesDebra" />
+      <edge id="91" source="xtonyshair" target="xtonyshair" />
+      <edge id="92" source="b3t0v" target="b3t0v" />
+      <edge id="93" source="decryptedn_yt" target="decryptedn_yt" />
+      <edge id="94" source="cadu_novaes" target="cadu_novaes" />
+      <edge id="95" source="cowcat44" target="cowcat44" />
+      <edge id="96" source="ZombiePortraits" target="ZombiePortraits" />
+      <edge id="97" source="wonderbunk" target="wonderbunk" />
+      <edge id="98" source="ChandlerCBS3" target="ChandlerCBS3" />
+      <edge id="99" source="comicsartgalaxy" target="comicsartgalaxy" />
+      <edge id="100" source="comicsdune" target="comicsdune" />
+      <edge id="101" source="Xchrotonix12" target="Xchrotonix12" />
+      <edge id="102" source="ktik931fm" target="ktik931fm" />
+      <edge id="103" source="LisaWBZ" target="LisaWBZ" />
+      <edge id="104" source="philparthree" target="philparthree" />
+      <edge id="105" source="meltball" target="meltball" />
+      <edge id="106" source="TOSHIRTcom" target="TOSHIRTcom" />
+      <edge id="107" source="K_McKee87" target="K_McKee87" />
+    </edges>
+  </graph>
+</gexf>
