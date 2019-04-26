@@ -3,104 +3,19 @@
   <graph defaultedgetype="undirected" mode="static" name="">
     <meta>
       <creator>NetworkX 2.2</creator>
-      <lastmodified>13/04/2019</lastmodified>
+      <lastmodified>25/04/2019</lastmodified>
     </meta>
     <nodes>
-      <node id="('KlownyJ', -0.5719)" label="('KlownyJ', -0.5719)" />
-      <node id="('sureshtrumpet', -0.4939)" label="('sureshtrumpet', -0.4939)" />
-      <node id="('D33munni', -0.05952380952380953)" label="('D33munni', -0.05952380952380953)" />
-      <node id="('laaaities', -0.05952380952380953)" label="('laaaities', -0.05952380952380953)" />
-      <node id="('favorite_tulips', -0.4767)" label="('favorite_tulips', -0.4767)" />
-      <node id="('FelipeG994', -0.2333333333333333)" label="('FelipeG994', -0.2333333333333333)" />
-      <node id="('Kernchen013', -0.4)" label="('Kernchen013', -0.4)" />
-      <node id="('MKSURFKAITO', -0.37499999999999994)" label="('MKSURFKAITO', -0.37499999999999994)" />
-      <node id="('adambarnhardt', -0.05)" label="('adambarnhardt', -0.05)" />
-      <node id="('theClintStaples', -0.11666666666666668)" label="('theClintStaples', -0.11666666666666668)" />
-      <node id="('DavidlBennettII', -0.03333333333333335)" label="('DavidlBennettII', -0.03333333333333335)" />
-      <node id="('WalterSimonson', -0.03333333333333335)" label="('WalterSimonson', -0.03333333333333335)" />
-      <node id="('cine31', -0.2)" label="('cine31', -0.2)" />
-      <node id="('EyezSedaiHomer', -0.30000000000000004)" label="('EyezSedaiHomer', -0.30000000000000004)" />
-      <node id="('Ode2B', -0.4404)" label="('Ode2B', -0.4404)" />
-      <node id="('youichivon', -0.16666666666666666)" label="('youichivon', -0.16666666666666666)" />
-      <node id="('SBorlaaq', -0.6956)" label="('SBorlaaq', -0.6956)" />
-      <node id="('NerdTruth', -0.25)" label="('NerdTruth', -0.25)" />
-      <node id="('Ooga_Chaka', -0.4)" label="('Ooga_Chaka', -0.4)" />
-      <node id="('RevewGames', -0.296)" label="('RevewGames', -0.296)" />
-      <node id="('Cosplaysbylo', -0.4)" label="('Cosplaysbylo', -0.4)" />
-      <node id="('GardRagnarok', -0.2)" label="('GardRagnarok', -0.2)" />
-      <node id="('SoylentForLent', -0.025)" label="('SoylentForLent', -0.025)" />
-      <node id="('passifloralexio', -0.2)" label="('passifloralexio', -0.2)" />
-      <node id="('sugarpoultry', -0.0225)" label="('sugarpoultry', -0.0225)" />
-      <node id="('Empress_Natalie', -0.3818)" label="('Empress_Natalie', -0.3818)" />
-      <node id="('PrincessSynahel', -0.575)" label="('PrincessSynahel', -0.575)" />
-      <node id="('kwsilk', -0.13333333333333333)" label="('kwsilk', -0.13333333333333333)" />
-      <node id="('SBorlaaq', -0.2023)" label="('SBorlaaq', -0.2023)" />
-      <node id="('ChannyBH', -0.39999999999999997)" label="('ChannyBH', -0.39999999999999997)" />
-      <node id="('ConStar24', -0.30000000000000004)" label="('ConStar24', -0.30000000000000004)" />
-      <node id="('GothGirlVonDark', -0.125)" label="('GothGirlVonDark', -0.125)" />
-      <node id="('DanielleBisutti', -0.125)" label="('DanielleBisutti', -0.125)" />
-      <node id="('GamerUPGaming', -0.125)" label="('GamerUPGaming', -0.125)" />
-      <node id="('nazrev87', -0.18333333333333335)" label="('nazrev87', -0.18333333333333335)" />
-      <node id="('james_callear', -0.20714285714285707)" label="('james_callear', -0.20714285714285707)" />
-      <node id="('ASCPods', -0.20714285714285707)" label="('ASCPods', -0.20714285714285707)" />
-      <node id="('SBorlaaq', -0.0772)" label="('SBorlaaq', -0.0772)" />
-      <node id="('lilred_bigmad', -0.3182)" label="('lilred_bigmad', -0.3182)" />
-      <node id="('d_punkster', -0.2215277777777778)" label="('d_punkster', -0.2215277777777778)" />
-      <node id="('3D_Stories_', -0.175)" label="('3D_Stories_', -0.175)" />
-      <node id="('darnstadium', -0.3412)" label="('darnstadium', -0.3412)" />
-      <node id="('jagnick', -0.3)" label="('jagnick', -0.3)" />
-      <node id="('Miss_Boof', -0.2965277777777778)" label="('Miss_Boof', -0.2965277777777778)" />
-      <node id="('MariposaPic', -0.0516)" label="('MariposaPic', -0.0516)" />
-      <node id="('Joggable', -0.05625)" label="('Joggable', -0.05625)" />
-      <node id="('GregRusso17', -0.025)" label="('GregRusso17', -0.025)" />
-      <node id="('Cronloya', -0.5)" label="('Cronloya', -0.5)" />
-      <node id="('d_nap17', -0.325)" label="('d_nap17', -0.325)" />
-      <node id="('NekcmoRecords', -0.03181818181818183)" label="('NekcmoRecords', -0.03181818181818183)" />
-      <node id="('ValquiriaValdez', -0.2)" label="('ValquiriaValdez', -0.2)" />
-      <node id="('WookieFBaby', -0.0258)" label="('WookieFBaby', -0.0258)" />
-      <node id="('rita_bane', -0.0258)" label="('rita_bane', -0.0258)" />
-      <node id="('TreyWhitee', -0.0258)" label="('TreyWhitee', -0.0258)" />
-      <node id="('MarkMan46849076', -0.19999999999999998)" label="('MarkMan46849076', -0.19999999999999998)" />
-      <node id="('cptnloco262', -0.3125)" label="('cptnloco262', -0.3125)" />
-      <node id="('elonmusk', -0.3125)" label="('elonmusk', -0.3125)" />
-      <node id="('ststeveofthebe1', -0.0516)" label="('ststeveofthebe1', -0.0516)" />
-      <node id="('debbiechwaaan', -0.2)" label="('debbiechwaaan', -0.2)" />
-      <node id="('darnstadium', -0.3)" label="('darnstadium', -0.3)" />
-      <node id="('GaryJMartin11', -0.15000000000000002)" label="('GaryJMartin11', -0.15000000000000002)" />
-      <node id="('Big_Pants', -0.3612)" label="('Big_Pants', -0.3612)" />
-      <node id="('DilanMcDaniel', -0.15000000000000002)" label="('DilanMcDaniel', -0.15000000000000002)" />
-      <node id="('Bleebu1', -0.4)" label="('Bleebu1', -0.4)" />
-      <node id="('LGMnow', -0.2)" label="('LGMnow', -0.2)" />
-      <node id="('teamjuju365', -0.5029761904761905)" label="('teamjuju365', -0.5029761904761905)" />
-      <node id="('teamjuju365', -0.15)" label="('teamjuju365', -0.15)" />
-      <node id="('JMHO_MCJ', -0.2732)" label="('JMHO_MCJ', -0.2732)" />
-      <node id="('LB_Jewelz', -0.125)" label="('LB_Jewelz', -0.125)" />
-      <node id="('Alycatffxiv', -0.29999999999999993)" label="('Alycatffxiv', -0.29999999999999993)" />
-      <node id="('DarkMooglette', -0.19166666666666665)" label="('DarkMooglette', -0.19166666666666665)" />
-      <node id="('nickcblaze', -0.07166666666666667)" label="('nickcblaze', -0.07166666666666667)" />
-      <node id="('_bernardpls', -0.05)" label="('_bernardpls', -0.05)" />
-      <node id="('runeoilcoffeeco', -0.003333333333333327)" label="('runeoilcoffeeco', -0.003333333333333327)" />
-      <node id="('MasKScarin', -0.1375)" label="('MasKScarin', -0.1375)" />
-      <node id="('COLIATHGAMING', -0.1779)" label="('COLIATHGAMING', -0.1779)" />
-      <node id="('dailyjohns', -0.10000000000000002)" label="('dailyjohns', -0.10000000000000002)" />
-      <node id="('carlllllllllllI', -0.10476190476190478)" label="('carlllllllllllI', -0.10476190476190478)" />
-      <node id="('NatalieWritesOn', -0.0869)" label="('NatalieWritesOn', -0.0869)" />
-      <node id="('samchongvillena', -0.5)" label="('samchongvillena', -0.5)" />
-      <node id="('BlairImani', -0.125)" label="('BlairImani', -0.125)" />
-      <node id="('KyseiiFr', -0.5)" label="('KyseiiFr', -0.5)" />
-      <node id="('ortiznach', -0.4404)" label="('ortiznach', -0.4404)" />
-      <node id="('Lolomalon', -0.13181818181818183)" label="('Lolomalon', -0.13181818181818183)" />
-      <node id="('torigates', -0.8519)" label="('torigates', -0.8519)" />
-      <node id="('GGDeeOfficial', -0.1027)" label="('GGDeeOfficial', -0.1027)" />
-      <node id="('_MissMoriarty_', -0.3125)" label="('_MissMoriarty_', -0.3125)" />
-      <node id="('jasonobosa', -0.3333333333333333)" label="('jasonobosa', -0.3333333333333333)" />
-      <node id="('MaskedHerosGC', -0.3)" label="('MaskedHerosGC', -0.3)" />
-      <node id="('TrishyTrickster', -0.7)" label="('TrishyTrickster', -0.7)" />
-      <node id="('Dot1541', -0.09806547619047619)" label="('Dot1541', -0.09806547619047619)" />
-      <node id="('PittsburghNerd', -0.09806547619047619)" label="('PittsburghNerd', -0.09806547619047619)" />
-      <node id="('sarinastyle', -0.078125)" label="('sarinastyle', -0.078125)" />
-      <node id="('MythellaneousP', -0.2)" label="('MythellaneousP', -0.2)" />
-      <node id="('drgonzo123', -0.06666666666666667)" label="('drgonzo123', -0.06666666666666667)" />
+      <node id="DCpunishment" label="DCpunishment" />
+      <node id="boxofficedetail" label="boxofficedetail" />
+      <node id="epkdaily" label="epkdaily" />
+      <node id="UberNeoCrusher" label="UberNeoCrusher" />
+      <node id="Dineshvaran121" label="Dineshvaran121" />
+      <node id="doc_ninten" label="doc_ninten" />
+      <node id="IgorLeseraphin" label="IgorLeseraphin" />
+      <node id="Marathon4MCU" label="Marathon4MCU" />
+      <node id="fadingstarlite" label="fadingstarlite" />
+      <node id="shyjot" label="shyjot" />
       <node id="KlownyJ" label="KlownyJ" />
       <node id="sureshtrumpet" label="sureshtrumpet" />
       <node id="D33munni" label="D33munni" />
@@ -189,113 +104,19 @@
       <node id="TrishyTrickster" label="TrishyTrickster" />
       <node id="Dot1541" label="Dot1541" />
       <node id="PittsburghNerd" label="PittsburghNerd" />
-      <node id="sarinastyle" label="sarinastyle" />
-      <node id="MythellaneousP" label="MythellaneousP" />
-      <node id="drgonzo123" label="drgonzo123" />
     </nodes>
     <edges>
-      <edge id="0" source="KlownyJ" target="KlownyJ" />
-      <edge id="1" source="sureshtrumpet" target="sureshtrumpet" />
-      <edge id="2" source="D33munni" target="D33munni" />
-      <edge id="3" source="D33munni" target="laaaities" />
-      <edge id="4" source="laaaities" target="laaaities" />
-      <edge id="5" source="favorite_tulips" target="favorite_tulips" />
-      <edge id="6" source="FelipeG994" target="FelipeG994" />
-      <edge id="7" source="Kernchen013" target="Kernchen013" />
-      <edge id="8" source="MKSURFKAITO" target="MKSURFKAITO" />
-      <edge id="9" source="adambarnhardt" target="adambarnhardt" />
-      <edge id="10" source="theClintStaples" target="theClintStaples" />
-      <edge id="11" source="DavidlBennettII" target="DavidlBennettII" />
-      <edge id="12" source="DavidlBennettII" target="WalterSimonson" />
-      <edge id="13" source="WalterSimonson" target="WalterSimonson" />
-      <edge id="14" source="cine31" target="cine31" />
-      <edge id="15" source="EyezSedaiHomer" target="EyezSedaiHomer" />
-      <edge id="16" source="Ode2B" target="Ode2B" />
-      <edge id="17" source="youichivon" target="youichivon" />
-      <edge id="18" source="SBorlaaq" target="SBorlaaq" />
-      <edge id="19" source="NerdTruth" target="NerdTruth" />
-      <edge id="20" source="Ooga_Chaka" target="Ooga_Chaka" />
-      <edge id="21" source="RevewGames" target="RevewGames" />
-      <edge id="22" source="Cosplaysbylo" target="Cosplaysbylo" />
-      <edge id="23" source="GardRagnarok" target="GardRagnarok" />
-      <edge id="24" source="SoylentForLent" target="SoylentForLent" />
-      <edge id="25" source="passifloralexio" target="passifloralexio" />
-      <edge id="26" source="sugarpoultry" target="sugarpoultry" />
-      <edge id="27" source="Empress_Natalie" target="Empress_Natalie" />
-      <edge id="28" source="PrincessSynahel" target="PrincessSynahel" />
-      <edge id="29" source="kwsilk" target="kwsilk" />
-      <edge id="30" source="ChannyBH" target="ChannyBH" />
-      <edge id="31" source="ConStar24" target="ConStar24" />
-      <edge id="32" source="GothGirlVonDark" target="GothGirlVonDark" />
-      <edge id="33" source="GothGirlVonDark" target="DanielleBisutti" />
-      <edge id="34" source="GothGirlVonDark" target="GamerUPGaming" />
-      <edge id="35" source="DanielleBisutti" target="DanielleBisutti" />
-      <edge id="36" source="DanielleBisutti" target="GamerUPGaming" />
-      <edge id="37" source="GamerUPGaming" target="GamerUPGaming" />
-      <edge id="38" source="nazrev87" target="nazrev87" />
-      <edge id="39" source="james_callear" target="james_callear" />
-      <edge id="40" source="james_callear" target="ASCPods" />
-      <edge id="41" source="ASCPods" target="ASCPods" />
-      <edge id="42" source="lilred_bigmad" target="lilred_bigmad" />
-      <edge id="43" source="d_punkster" target="d_punkster" />
-      <edge id="44" source="3D_Stories_" target="3D_Stories_" />
-      <edge id="45" source="darnstadium" target="darnstadium" />
-      <edge id="46" source="jagnick" target="jagnick" />
-      <edge id="47" source="Miss_Boof" target="Miss_Boof" />
-      <edge id="48" source="MariposaPic" target="MariposaPic" />
-      <edge id="49" source="Joggable" target="Joggable" />
-      <edge id="50" source="GregRusso17" target="GregRusso17" />
-      <edge id="51" source="Cronloya" target="Cronloya" />
-      <edge id="52" source="d_nap17" target="d_nap17" />
-      <edge id="53" source="NekcmoRecords" target="NekcmoRecords" />
-      <edge id="54" source="ValquiriaValdez" target="ValquiriaValdez" />
-      <edge id="55" source="WookieFBaby" target="WookieFBaby" />
-      <edge id="56" source="WookieFBaby" target="rita_bane" />
-      <edge id="57" source="WookieFBaby" target="TreyWhitee" />
-      <edge id="58" source="rita_bane" target="rita_bane" />
-      <edge id="59" source="rita_bane" target="TreyWhitee" />
-      <edge id="60" source="TreyWhitee" target="TreyWhitee" />
-      <edge id="61" source="MarkMan46849076" target="MarkMan46849076" />
-      <edge id="62" source="cptnloco262" target="cptnloco262" />
-      <edge id="63" source="cptnloco262" target="elonmusk" />
-      <edge id="64" source="elonmusk" target="elonmusk" />
-      <edge id="65" source="ststeveofthebe1" target="ststeveofthebe1" />
-      <edge id="66" source="debbiechwaaan" target="debbiechwaaan" />
-      <edge id="67" source="GaryJMartin11" target="GaryJMartin11" />
-      <edge id="68" source="Big_Pants" target="Big_Pants" />
-      <edge id="69" source="DilanMcDaniel" target="DilanMcDaniel" />
-      <edge id="70" source="Bleebu1" target="Bleebu1" />
-      <edge id="71" source="LGMnow" target="LGMnow" />
-      <edge id="72" source="teamjuju365" target="teamjuju365" />
-      <edge id="73" source="JMHO_MCJ" target="JMHO_MCJ" />
-      <edge id="74" source="LB_Jewelz" target="LB_Jewelz" />
-      <edge id="75" source="Alycatffxiv" target="Alycatffxiv" />
-      <edge id="76" source="DarkMooglette" target="DarkMooglette" />
-      <edge id="77" source="nickcblaze" target="nickcblaze" />
-      <edge id="78" source="_bernardpls" target="_bernardpls" />
-      <edge id="79" source="runeoilcoffeeco" target="runeoilcoffeeco" />
-      <edge id="80" source="MasKScarin" target="MasKScarin" />
-      <edge id="81" source="COLIATHGAMING" target="COLIATHGAMING" />
-      <edge id="82" source="dailyjohns" target="dailyjohns" />
-      <edge id="83" source="carlllllllllllI" target="carlllllllllllI" />
-      <edge id="84" source="NatalieWritesOn" target="NatalieWritesOn" />
-      <edge id="85" source="samchongvillena" target="samchongvillena" />
-      <edge id="86" source="BlairImani" target="BlairImani" />
-      <edge id="87" source="KyseiiFr" target="KyseiiFr" />
-      <edge id="88" source="ortiznach" target="ortiznach" />
-      <edge id="89" source="Lolomalon" target="Lolomalon" />
-      <edge id="90" source="torigates" target="torigates" />
-      <edge id="91" source="GGDeeOfficial" target="GGDeeOfficial" />
-      <edge id="92" source="_MissMoriarty_" target="_MissMoriarty_" />
-      <edge id="93" source="jasonobosa" target="jasonobosa" />
-      <edge id="94" source="MaskedHerosGC" target="MaskedHerosGC" />
-      <edge id="95" source="TrishyTrickster" target="TrishyTrickster" />
-      <edge id="96" source="Dot1541" target="Dot1541" />
-      <edge id="97" source="Dot1541" target="PittsburghNerd" />
-      <edge id="98" source="PittsburghNerd" target="PittsburghNerd" />
-      <edge id="99" source="sarinastyle" target="sarinastyle" />
-      <edge id="100" source="MythellaneousP" target="MythellaneousP" />
-      <edge id="101" source="drgonzo123" target="drgonzo123" />
+      <edge id="0" source="D33munni" target="laaaities" />
+      <edge id="1" source="DavidlBennettII" target="WalterSimonson" />
+      <edge id="2" source="GothGirlVonDark" target="DanielleBisutti" />
+      <edge id="3" source="GothGirlVonDark" target="GamerUPGaming" />
+      <edge id="4" source="DanielleBisutti" target="GamerUPGaming" />
+      <edge id="5" source="james_callear" target="ASCPods" />
+      <edge id="6" source="WookieFBaby" target="rita_bane" />
+      <edge id="7" source="WookieFBaby" target="TreyWhitee" />
+      <edge id="8" source="rita_bane" target="TreyWhitee" />
+      <edge id="9" source="cptnloco262" target="elonmusk" />
+      <edge id="10" source="Dot1541" target="PittsburghNerd" />
     </edges>
   </graph>
 </gexf>
